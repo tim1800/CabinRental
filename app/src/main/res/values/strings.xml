@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Cabin Rental</string>
+    <string name="imgCabin">Image of the cabin</string>
+    <string name="txtTitle">Cabin rentals of the midwest</string>
+    <string name="txtDescription">We offer different kind of cabin accommodation to serve your requests. Simple camping cabins offers accommodation with reasonable price, comfortable cabins with sauna are for you if you want to relax after active day and in bigger cabins you can enjoy your holiday with friends and family.</string>
+    <string name="btnDate">Select the Date</string>
+    <string name="btnCabin1">Small Cabin</string>
+    <string name="btnCabin2">Large Cabin</string>
+</resources>
